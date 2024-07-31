@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](Blue And Green Professional Technology LinkedIn Banner.png)
+[![MasterHead](Blue And Green Professional Technology LinkedIn Banner.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abderrahim Zinet</h1>
 <h3 align="center">A Full-Stack Developer</h3>
 
