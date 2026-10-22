@@ -77,6 +77,11 @@
 
 <br/>
 
+<div align="center"> <h3>🐍 CONTRIBUTION EATER</h3> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abderahiiim/abderahiiim/output/github-snake-dark.svg" /> <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/abderahiiim/abderahiiim/output/github-snake-dark.svg" width="100%" /> </picture>
+
+<br/><br/>
+
+
 <!-- ═══════════════ SOCIAL GATEWAY ═══════════════ -->
 <div align="center">
 
